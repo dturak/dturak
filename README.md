@@ -1,16 +1,37 @@
-### Hi there 👋
+<img src="assets/banner.gif"  alt="Daniel Turski" />
+<a href="#about">About me</a> | <a href="#tools">Languages and Tools</a> | <a href="#contact">Contact me</a> 
+| <a href="#stats">Other stats</a> 
 
-<!--
-**dturak/dturak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>
+<audio controls autoplay loop>
+  <source src="assets/missYouLove.mp3" type="audio/mpeg">
+  Twoja przeglądarka nie obsługuje odtwarzacza audio.
+</audio>
 
-Here are some ideas to get you started:
+<h2 id="about"> <img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="70"/> About Me </h2>
+I'm a full stack developer...
+<hr />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 id="tools"> <img src="https://media.tenor.com/mQdBFjyJsQIAAAAi/lightsaber-playing.gif" width="70"/> Languages and Tools </h2>
+<hr />
+<img src="assets/lang/sass.png" width="24"  alt="sass" />
+<img src="assets/lang/ts.png" width="24"  alt="typescript" />
+<img src="assets/lang/js.png" width="24"  alt="javascript" />
+<img src="assets/lang/angular.png" width="24"  alt="angular" />
+<img src="assets/lang/bootstrap.png" width="24" alt="bootstrap" />
+<img src="assets/lang/css.png" width="24" alt="css" />
+<img src="assets/lang/html.png" width="24" alt="html" />
+<img src="assets/lang/docker.png" width="24" alt="docker" />
+<img src="assets/lang/ii.png" width="24" alt="inteliji idea" />
+<img src="assets/lang/redis.png" width="24" alt="redis" />
+<img src="assets/lang/sf.png" width="24" alt="symfony" />
+
+<h2 id="contact"> <img src="https://media.tenor.com/4s8RxnXHt-4AAAAi/icon-cute.gif" width="70"/> Contact Me </h2>
+<hr />
+
+<br />
+<br />
+<br />
+<br />
+<h2 id="stats">  </h2>
+<img align="center" src="https://media.tenor.com/j4GkLwd_JnYAAAAi/arrow-down-green.gif" width="70"/>
