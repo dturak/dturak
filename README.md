@@ -8,6 +8,7 @@
 I'm a full stack developer...
 
 <h2 id="tools"> <img src="https://media.tenor.com/mQdBFjyJsQIAAAAi/lightsaber-playing.gif" width="70"/> Languages and Tools </h2>
+<div>
 <img align="left" src="assets/lang/sass.png" width="24"  alt="sass" />
 <img align="left" src="assets/lang/ts.png" width="24"  alt="typescript" />
 <img align="left" src="assets/lang/js.png" width="24"  alt="javascript" />
@@ -19,7 +20,7 @@ I'm a full stack developer...
 <img align="left" src="assets/lang/ii.png" width="24" alt="inteliji idea" />
 <img align="left" src="assets/lang/redis.png" width="24" alt="redis" />
 <img align="left" src="assets/lang/sf.png" width="24" alt="symfony" />
-<div style="clear: both"></div>
+</div>
 
 <h2 id="contact"> <img src="https://media.tenor.com/4s8RxnXHt-4AAAAi/icon-cute.gif" width="70"/> Contact Me </h2>
 
