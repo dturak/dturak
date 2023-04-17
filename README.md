@@ -3,17 +3,11 @@
 | <a href="#stats">Other stats</a> 
 
 # Hi there <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>
-<audio controls autoplay loop>
-  <source src="assets/missYouLove.mp3" type="audio/mpeg">
-  Twoja przeglądarka nie obsługuje odtwarzacza audio.
-</audio>
 
 <h2 id="about"> <img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="70"/> About Me </h2>
 I'm a full stack developer...
-<hr />
 
 <h2 id="tools"> <img src="https://media.tenor.com/mQdBFjyJsQIAAAAi/lightsaber-playing.gif" width="70"/> Languages and Tools </h2>
-<hr />
 <img src="assets/lang/sass.png" width="24"  alt="sass" />
 <img src="assets/lang/ts.png" width="24"  alt="typescript" />
 <img src="assets/lang/js.png" width="24"  alt="javascript" />
@@ -27,7 +21,6 @@ I'm a full stack developer...
 <img src="assets/lang/sf.png" width="24" alt="symfony" />
 
 <h2 id="contact"> <img src="https://media.tenor.com/4s8RxnXHt-4AAAAi/icon-cute.gif" width="70"/> Contact Me </h2>
-<hr />
 
 <br />
 <br />
