@@ -40,9 +40,11 @@ I'm a full stack developer...
 <a href="https://www.linkedin.com/in/turski-daniel/" target="_blank">
     <img src="assets/social/linkedin.png" width="40" alt="linkedin" />
 </a>
+
 <a href="mailto:dturak@gmail.com" target="_blank">
     <img src="assets/social/gmail.png" width="40" alt="gmail" />
 </a>
+
 <a href="https://www.instagram.com/turskidaniel/" target="_blank">
     <img src="assets/social/instagram.png" width="40" alt="instagram" />
 </a>
